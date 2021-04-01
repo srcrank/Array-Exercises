@@ -7,6 +7,14 @@ const instructors = useInstructors();
 // It should not accept any parameters`
 // It should return an array of strings. Each string should be the full name of the student
 
+// export const getStudentNames = () => {
+//   let studentNameArr = students.map(studentName => {
+//       return `${studentName.firstName} ${studentName.lastName}`
+//   })
+//   console.log(studentNameArr)
+
+// }
+
 // Export a function named StudentList
 // It should not accept any parameters
 // It should return a single HTMLString that contains a <div> element for every student that looks like the following:
